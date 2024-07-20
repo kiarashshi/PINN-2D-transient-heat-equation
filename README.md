@@ -1,6 +1,6 @@
 # 2D transient heat equation
 
-## introduction
+## Introduction
 This repository provides a solution to the transient 2D heat equation using Physics-Informed Neural Networks (PINNs). PINNs leverage the power of deep learning while respecting the underlying physical laws described by partial differential equations (PDEs). This approach allows for the solution of complex PDEs without the need for traditional discretization methods.
 
 
@@ -61,7 +61,10 @@ T(x,y,0) = 273k
 
 
 ## Results
+**Loss function:**
 ![Screenshot (642)](https://github.com/user-attachments/assets/ca1e0f4e-6974-480f-bc8a-c6235185b48c)
+
+![temperature_distribution](https://github.com/user-attachments/assets/5e39ace8-c94c-4772-aac0-a9294ef502b5)
 
 
 
