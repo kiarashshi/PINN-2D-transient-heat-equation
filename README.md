@@ -25,10 +25,6 @@ where:
 - \( x \) and \( y \) are  both ranging from 0 to 1.
 - \( t \) is the time variable, ranging from 0 to 4000.
 
-where:
-- \( x_{\text{min}} \) and \( x_{\text{max}} \) are the minimum and maximum values of the \( x \)-coordinate.
-- \( y_{\text{min}} \) and \( y_{\text{max}} \) are the minimum and maximum values of the \( y \)-coordinate.
-
 
 ## Boundary Conditions
 
