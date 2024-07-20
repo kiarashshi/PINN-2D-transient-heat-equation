@@ -61,6 +61,7 @@ T(x,y,0) = 273k
 
 
 ## Results
+![Screenshot (642)](https://github.com/user-attachments/assets/ca1e0f4e-6974-480f-bc8a-c6235185b48c)
 
 
 
